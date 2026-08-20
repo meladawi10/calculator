@@ -37,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               ),
             ),
-            //الجزء الي شايلي الزاير بتاعه الاله الحاسبه
+  
             Expanded(
               flex: 3,
               child: Row(
