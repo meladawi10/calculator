@@ -1,7 +1,11 @@
-# Ignore Flutter Windows build files from GitHub language detection
+# Flutter platform files
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
 windows/** linguist-vendored
-windows/** linguist-generated
+web/** linguist-vendored
 
-# Ignore generated Flutter files
+# Generated files
 **/*.g.dart linguist-generated
 **/*.freezed.dart linguist-generated
